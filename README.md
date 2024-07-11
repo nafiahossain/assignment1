@@ -1,4 +1,4 @@
-# Responsive Web Page with Hidden Sidebar on Mobile
+# Responsive Web Page
 
 This project demonstrates a responsive web page layout. The layout includes a navigation bar, image grid, detailed sections, a calendar component, host and room descriptions, form for booking, and a footer section.
 
